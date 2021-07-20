@@ -1,2 +1,0 @@
-# WEBLOCKERS
-Test pages
